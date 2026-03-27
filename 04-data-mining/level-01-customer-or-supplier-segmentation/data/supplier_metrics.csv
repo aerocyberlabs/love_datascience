@@ -1,0 +1,6 @@
+supplier_id,on_time_rate,monthly_shipments,avg_delay_days
+SUP-100,0.95,120,0.5
+SUP-200,0.72,110,2.8
+SUP-300,0.88,40,1.0
+SUP-301,0.90,45,0.9
+

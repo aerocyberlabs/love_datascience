@@ -1,0 +1,4 @@
+shipment_id,order_id,origin,destination,status,event_ts,carrier,weight_kg
+SHP-100,ORD-1,Monterrey,Austin,in_transit,2026-01-10T08:00:00,Northwind,10.5
+SHP-200,ORD-2,Guadalajara,Dallas,delayed,2026-01-12T11:30:00,BlueFreight,7.0
+

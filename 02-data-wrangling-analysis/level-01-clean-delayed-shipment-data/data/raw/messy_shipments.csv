@@ -1,0 +1,5 @@
+shipment_id,origin,destination,status,promised_date,delivered_date,carrier,weight_kg
+ shp-100 ,Monterrey,Austin, Delivered ,2026-01-12,2026-01-13,Northwind,10.5
+SHP-101,Monterrey,Austin,delivered,2026-01-12,2026-01-12,Northwind,8.0
+SHP-200,Guadalajara,Dallas,in_transit,2026-01-15,,BlueFreight,7.0
+

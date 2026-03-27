@@ -1,0 +1,48 @@
+.DS_Store
+.env
+.env.*
+.python-version
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# Local databases and warehouse scratch space
+*.db
+*.duckdb
+*.sqlite
+*.sqlite3
+
+# Data and artifact outputs
+data/raw/*
+data/processed/*
+data/interim/*
+artifacts/*
+outputs/*
+reports/*
+
+# Keep directory structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/interim/.gitkeep
+!artifacts/.gitkeep
+!outputs/.gitkeep
+!reports/.gitkeep
+
+# Model artifacts
+*.pkl
+*.joblib
+*.parquet
+*.feather
+*.orc
+

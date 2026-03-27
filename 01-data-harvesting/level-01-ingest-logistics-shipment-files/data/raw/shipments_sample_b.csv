@@ -1,0 +1,4 @@
+shipment_id,order_id,origin,destination,status,event_ts,carrier,weight_kg
+SHP-100,ORD-1,Monterrey,Austin,delivered,2026-01-10T18:15:00,Northwind,10.5
+SHP-300,ORD-3,Tijuana,Houston,in_transit,2026-01-13T09:45:00,BlueFreight,4.2
+

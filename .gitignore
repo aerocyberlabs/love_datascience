@@ -30,6 +30,8 @@ data/interim/*
 artifacts/*
 outputs/*
 reports/*
+**/outputs/*
+**/reports/*
 
 # Keep directory structure
 !data/raw/.gitkeep
@@ -45,4 +47,3 @@ reports/*
 *.parquet
 *.feather
 *.orc
-

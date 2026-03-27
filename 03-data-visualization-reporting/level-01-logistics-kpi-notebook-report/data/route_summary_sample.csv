@@ -1,0 +1,4 @@
+route,shipment_count,late_shipments,late_ratio,avg_delay_days,total_weight_kg
+Guadalajara->Dallas,1,0,0.0,0.0,7.0
+Monterrey->Austin,2,1,0.5,0.5,18.5
+

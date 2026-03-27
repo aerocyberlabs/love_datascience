@@ -1,0 +1,4 @@
+grade,loan_count,delinquent_loans,delinquency_rate,avg_debt_to_income
+A,1,0,0.0,0.1
+B,2,1,0.5,0.25
+

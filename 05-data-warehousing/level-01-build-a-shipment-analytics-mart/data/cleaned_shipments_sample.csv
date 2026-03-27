@@ -1,0 +1,5 @@
+shipment_id,route,status,carrier,weight_kg,promised_date,delivered_date,delay_days,is_late
+SHP-100,Monterrey->Austin,delivered,Northwind,10.5,2026-01-12,2026-01-13,1,1
+SHP-101,Monterrey->Austin,delivered,Northwind,8.0,2026-01-12,2026-01-12,0,0
+SHP-200,Guadalajara->Dallas,in_transit,BlueFreight,7.0,2026-01-15,,0,0
+

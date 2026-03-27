@@ -1,0 +1,5 @@
+loan_id,grade,annual_income,debt,days_past_due,loan_amount
+ LN-100 , b ,60000,18000,35,12000
+LN-101,B,70000,14000,0,10000
+LN-200,A,90000,9000,0,15000
+

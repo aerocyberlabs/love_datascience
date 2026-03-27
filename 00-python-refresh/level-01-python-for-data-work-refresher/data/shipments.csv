@@ -1,0 +1,5 @@
+shipment_id,route,weight_kg
+ shp-100 ,Monterrey->Austin,10.5
+SHP-101,Monterrey->Austin,8.0
+SHP-200,Guadalajara->Dallas,7.0
+

@@ -1,0 +1,8 @@
+shipment_id,weight_kg,route_risk_score,carrier_delay_rate,is_late
+SHP-100,12.0,0.9,0.8,1
+SHP-101,11.5,0.8,0.7,1
+SHP-200,7.0,0.2,0.3,0
+SHP-201,6.5,0.1,0.2,0
+SHP-300,9.5,0.7,0.6,1
+SHP-301,5.5,0.3,0.4,0
+

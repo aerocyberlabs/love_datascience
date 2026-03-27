@@ -1,0 +1,18 @@
+{
+  "next_page": "page_2.json",
+  "results": [
+    {
+      "symbol": "AERO",
+      "trade_date": "2026-02-01",
+      "close_price": 102.5,
+      "volume": 1250000
+    },
+    {
+      "symbol": "NOVA",
+      "trade_date": "2026-02-01",
+      "close_price": 44.2,
+      "volume": 880000
+    }
+  ]
+}
+
